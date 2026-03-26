@@ -1,0 +1,7 @@
+- mongodb object id validation middleware
+- zod for input validation in incoming requests
+- migration to 'Sessions' from JWT
+- rate limiting and throttling using Redis
+- bulk product addition
+- minimise product schema
+- migrate to typescript
